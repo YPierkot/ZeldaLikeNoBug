@@ -11,6 +11,8 @@
 /[Mm]emoryCaptures/
 /[Uu]serSettings/
 
+/[Aa]ssets/Resources/ScriptableObject/CustomHierarchy.asset
+
 # Force les fichiers meta a se mettre dans le git
 !/[Aa]ssets/**/*.meta
 
